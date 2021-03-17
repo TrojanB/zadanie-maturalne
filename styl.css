@@ -1,0 +1,44 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+
+div{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.baner{
+    text-align: center;
+    background-color: #EFE3AF;
+    width: 100%;
+    height: 20%;
+}
+
+.menu{
+    background-color: white;
+    width: 40%;
+    height: 80%;
+    float: left;
+}
+
+.content{
+    background-color: white;
+    width: 60%;
+    height: 80%;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
